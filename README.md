@@ -10,8 +10,7 @@
 
 - **이름**: 장해림  
 - **생년월일**: 1994. 07. 08  
-- **연락처**: 010-3191-3265  
-- **이메일**: gofla333@naver.com  
+- **이메일**: jhrim94@gmail.com  
 - **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/haerimzzang)
 
 ### 학력
